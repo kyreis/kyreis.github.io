@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kyreis.github.io/QPd/sitemap.QPd
